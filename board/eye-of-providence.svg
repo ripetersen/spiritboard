@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:odm="http://product.corel.com/CGS/11/cddns/" xml:space="preserve" width="1600px" height="1489px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd"
+     viewBox="0 0 1600 1490">
+ <defs>
+  <font id="FontID0" fullFontName="Arial" fontVariant="normal" fontWeight="400">
+	<font-face 
+		font-family="Arial">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode=" " horiz-adv-x="277"><path d="M89 0"/></glyph>
+   <glyph unicode="." horiz-adv-x="277"><path d="M89 0l0 100 100 0 0 -100 -100 0z"/></glyph>
+   <glyph unicode="M" horiz-adv-x="831"><path d="M73 0l0 715 142 0 169 -505c16,-47 26,-84 37,-105 5,21 21,63 36,110l169 500 131 0 0 -715 -94 0 0 600 -206 -600 -84 0 -210 610 0 -610 -90 0z"/></glyph>
+   <glyph unicode="A" horiz-adv-x="665"><path d="M0 0l273 715 100 0 295 -715 -111 0 -84 215 -295 0 -78 -215 -100 0zm205 294l242 0 -74 195c-26,63 -42,111 -52,147 -11,-42 -21,-89 -37,-131l-79 -211z"/></glyph>
+   <glyph unicode="F" horiz-adv-x="609"><path d="M84 0l0 715 479 0 0 -84 -385 0 0 -221 332 0 0 -84 -332 0 0 -326 -94 0z"/></glyph>
+   <glyph unicode="m" horiz-adv-x="831"><path d="M68 0l0 515 74 0 0 -68c15,21 42,42 68,58 26,16 58,26 90,26 36,0 68,-10 94,-26 27,-16 42,-37 53,-69 42,64 95,95 158,95 52,0 95,-16 121,-47 26,-27 42,-69 42,-132l0 -352 -90 0 0 326c0,37 0,58 -5,74 -10,15 -21,31 -31,36 -16,11 -37,16 -53,16 -37,0 -68,-10 -95,-37 -21,-21 -31,-63 -31,-115l0 -300 -90 0 0 336c0,37 -5,69 -21,90 -16,16 -37,26 -74,26 -21,0 -47,-5 -63,-21 -21,-10 -37,-31 -47,-53 -11,-26 -16,-63 -16,-110l0 -268 -84 0z"/></glyph>
+   <glyph unicode="e" horiz-adv-x="554"><path d="M421 168l89 -11c-16,-57 -42,-94 -79,-126 -37,-26 -89,-41 -147,-41 -79,0 -137,20 -179,67 -48,48 -69,111 -69,195 0,90 21,158 69,205 42,48 100,74 173,74 69,0 127,-26 169,-74 42,-47 68,-110 68,-200 0,-5 0,-10 -5,-21l-384 0c5,-58 21,-100 47,-131 32,-32 69,-48 111,-48 31,0 58,11 84,27 21,16 37,47 53,84zm-290 142l290 0c-6,42 -16,74 -32,95 -32,37 -68,52 -111,52 -42,0 -73,-15 -100,-42 -26,-26 -42,-63 -47,-105z"/></glyph>
+   <glyph unicode="r" horiz-adv-x="332"><path d="M63 0l0 515 79 0 0 -79c21,37 42,64 58,74 15,11 36,21 57,21 27,0 58,-10 90,-31l-32 -79c-21,10 -42,15 -63,15 -21,0 -37,-5 -52,-15 -16,-11 -27,-27 -32,-48 -11,-31 -16,-63 -16,-105l0 -268 -89 0z"/></glyph>
+   <glyph unicode="s" horiz-adv-x="498"><path d="M31 152l84 16c6,-37 21,-63 42,-79 21,-21 53,-32 95,-32 37,0 69,11 90,27 15,16 26,37 26,58 0,21 -5,36 -26,47 -11,11 -42,16 -90,32 -63,15 -105,26 -131,42 -27,10 -43,26 -58,47 -11,21 -16,42 -16,68 0,27 5,48 16,64 10,21 21,36 42,52 10,11 31,16 52,27 27,5 53,10 79,10 42,0 74,-10 106,-21 31,-10 52,-26 68,-47 16,-21 26,-48 32,-79l-90 -11c0,27 -10,48 -31,63 -21,11 -48,21 -79,21 -42,0 -69,-5 -85,-21 -21,-15 -26,-26 -26,-47 0,-11 0,-21 11,-32 5,-5 15,-15 31,-21 11,-5 37,-10 79,-21 63,-21 105,-31 132,-42 21,-10 42,-26 52,-47 16,-21 21,-42 21,-74 0,-31 -5,-58 -21,-84 -21,-26 -42,-47 -73,-58 -37,-15 -69,-20 -111,-20 -68,0 -121,10 -152,41 -37,26 -58,69 -69,121z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";src:url("#FontID0") format(svg)}
+    .str1 {stroke:#1F1A17;stroke-width:0}
+    .str0 {stroke:#1F1A17;stroke-width:5}
+    .fil0 {fill:none}
+    .fil1 {fill:#1F1A17}
+    .fnt0 {font-weight:normal;font-size:190;font-family:Arial}
+   ]]>
+  </style>
+ </defs>
+ <g id="Ebene 1">
+  <path class="fil0 str0" d="M556 773l230 -390 232 388 -462 2z"/>
+  <path class="fil0 str0" d="M809 385l72 -313"/>
+  <path class="fil0 str0" d="M824 393l115 -293"/>
+  <path class="fil0 str0" d="M846 411l145 -276"/>
+  <path class="fil0 str0" d="M860 432l186 -267"/>
+  <path class="fil0 str0" d="M1099 208l-205 227"/>
+  <path class="fil0 str0" d="M888 481l276 -239"/>
+  <path class="fil0 str0" d="M1193 281l-289 233"/>
+  <path class="fil0 str0" d="M924 534l307 -206"/>
+  <path class="fil0 str0" d="M932 566l365 -191"/>
+  <path class="fil0 str0" d="M948 589l389 -172"/>
+  <path class="fil0 str0" d="M965 615l415 -145"/>
+  <path class="fil0 str0" d="M978 642l436 -126"/>
+  <path class="fil0 str0" d="M994 668l462 -98"/>
+  <path class="fil0 str0" d="M1007 695l474 -69"/>
+  <path class="fil0 str0" d="M1018 718l493 -42"/>
+  <path class="fil0 str0" d="M1041 750l496 3"/>
+  <path class="fil0 str0" d="M1058 767l506 47"/>
+  <path class="fil0 str0" d="M1043 783l504 116"/>
+  <path class="fil0 str0" d="M1040 795l464 179"/>
+  <path class="fil0 str0" d="M1022 799l440 239"/>
+  <path class="fil0 str0" d="M1009 801l412 289"/>
+  <path class="fil0 str0" d="M968 797l405 359"/>
+  <path class="fil0 str0" d="M948 803l368 402"/>
+  <path class="fil0 str0" d="M1264 1243l-342 -439"/>
+  <path class="fil0 str0" d="M908 808l286 473"/>
+  <path class="fil0 str0" d="M1132 1305l-240 -494"/>
+  <path class="fil0 str0" d="M874 805l195 540"/>
+  <path class="fil0 str0" d="M1002 1382l-146 -581"/>
+  <path class="fil0 str0" d="M841 807l93 605"/>
+  <path class="fil0 str0" d="M864 1435l-44 -629"/>
+  <path class="fil0 str0" d="M791 810l-10 645"/>
+  <path class="fil0 str0" d="M698 1431l58 -615"/>
+  <path class="fil0 str0" d="M734 819l-103 570"/>
+  <path class="fil0 str0" d="M559 1355l159 -540"/>
+  <path class="fil0 str0" d="M702 809l-209 514"/>
+  <path class="fil0 str0" d="M441 1290l241 -476"/>
+  <path class="fil0 str0" d="M660 816l-283 445"/>
+  <path class="fil0 str0" d="M320 1213l317 -399"/>
+  <path class="fil0 str0" d="M621 814l-348 369"/>
+  <path class="fil0 str0" d="M227 1148l386 -347"/>
+  <path class="fil0 str0" d="M176 1100l404 -297"/>
+  <path class="fil0 str0" d="M566 798l-432 251"/>
+  <path class="fil0 str0" d="M98 992l450 -197"/>
+  <path class="fil0 str0" d="M539 784l-466 145"/>
+  <path class="fil0 str0" d="M50 879l450 -95"/>
+  <path class="fil0 str0" d="M546 767l-520 50"/>
+  <path class="fil0 str0" d="M56 733l489 24"/>
+  <path class="fil0 str0" d="M82 671l460 59"/>
+  <path class="fil0 str0" d="M119 611l438 100"/>
+  <path class="fil0 str0" d="M570 689l-417 -122"/>
+  <path class="fil0 str0" d="M198 512l381 148"/>
+  <path class="fil0 str0" d="M238 464l342 165"/>
+  <path class="fil0 str0" d="M620 615l-344 -198"/>
+  <path class="fil0 str0" d="M316 371l322 204"/>
+  <path class="fil0 str0" d="M655 556l-292 -237"/>
+  <path class="fil0 str0" d="M407 282l258 240"/>
+  <path class="fil0 str0" d="M679 498l-234 -249"/>
+  <path class="fil0 str0" d="M481 209l227 267"/>
+  <path class="fil0 str0" d="M712 446l-190 -269"/>
+  <path class="fil0 str0" d="M575 152l153 277"/>
+  <path class="fil0 str0" d="M745 407l-120 -283"/>
+  <path class="fil0 str0" d="M676 95l83 299"/>
+  <path class="fil0 str0" d="M775 371l-35 -297"/>
+  <path class="fil0 str0" d="M799 53l-5 321"/>
+  <path class="fil0 str0" d="M734 608c33,-35 71,-32 114,12"/>
+  <path class="fil0 str0" d="M733 651c6,-3 10,-8 12,-14 36,-35 67,-15 96,16"/>
+  <path class="fil0 str0" d="M736 663c6,-1 10,-4 13,-9 42,-40 51,-11 97,13"/>
+  <path class="fil0 str0" d="M730 670c4,5 11,7 21,7 35,30 55,14 89,-3"/>
+  <path class="fil0 str0" d="M811 661c-15,22 -39,11 -34,-9"/>
+  <circle class="fil1 str1" cx="795" cy="653" r="9"/>
+  <g transform="matrix(0.953996 0 0 1 -436.769 979.694)">
+   <text x="800" y="745" class="fil1 fnt0">F. A. Mesmer</text>
+  </g>
+ </g>
+</svg>
